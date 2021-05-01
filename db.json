@@ -1,0 +1,90 @@
+{
+  "GET_DATA": [
+    {
+      "LABEL": [
+        {
+          "CREATE_COMPANY": [
+            {
+              "COMPANY_NAME": "Company Name"
+            },
+            {
+              "PHONE_NO": "Phone Number"
+            },
+            {
+              "EMAIL_ID": "Email-ID"
+            }
+          ],
+          "SELECT_COUNTRY": [
+            {
+              "SELECT_COUNTRY": "Select Country"
+            }
+          ],
+          "ADD_PARTY": [
+            {
+              "PARTY_NAME": "Party Name"
+            },
+            {
+              "PHONE_NO": "Phone Number"
+            },
+            {
+              "EMAIL_ID": "Email-ID"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "PLACEHOLDER": [
+        {
+          "CREATE_COMPANY": [
+            {
+              "COMPANY_NAME": "Enter Company Name"
+            },
+            {
+              "PHONE_NO": "Enter Phone Number"
+            },
+            {
+              "EMAIL_ID": "Enter Email-ID"
+            }
+          ],
+          "ADD_PARTY": [
+            {
+              "PARTY_NAME": "Enter Party Name"
+            },
+            {
+              "PHONE_NO": "Enter Phone Number"
+            },
+            {
+              "EMAIL_ID": "Enter Email-ID"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ADDBUNDLE": [],
+  "PRODUCT": [],
+  "PARTY": [],
+  "BILLING_ADDRESS": [],
+  "DISPATCH_ADDRESS": [],
+  "COMPANY": [
+    {
+      "companyName": "Mahesh",
+      "phoneNo": "9881938639",
+      "emailID": "mahesh@gmail.com",
+      "id": 1
+    },
+    {
+      "companyName": "Mahesh",
+      "phoneNo": "9881938639",
+      "emailID": "mahesh@gmail.com",
+      "id": 2
+    },
+    {
+      "companyName": "Mahes98",
+      "phoneNo": "9881938639",
+      "emailID": "mahesh@gmail.com",
+      "id": 3
+    }
+  ]
+}
